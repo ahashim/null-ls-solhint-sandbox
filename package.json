@@ -1,7 +1,7 @@
 {
   "name": "null-ls-solhint-sandbox",
   "version": "0.0.1",
-  "description": "",
+  "description": "demo project to test solhint diagnostics in null-ls",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
